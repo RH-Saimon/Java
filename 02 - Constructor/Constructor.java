@@ -20,7 +20,7 @@ class Student {
         System.out.println("age :" + age);
     }
 }
-class constructor{
+class Constructor{
     static void main(String[]args){
         Student s1 = new Student();
         Student s2 = new Student("hasan");

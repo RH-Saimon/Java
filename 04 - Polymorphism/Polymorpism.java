@@ -29,7 +29,7 @@ class Cat extends Animal{
         System.out.println("cat meews");
     }
 }
-class polymorpism{
+class Polymorpism{
     public static void main(String[]args){
         System.out.println("Method overloading");
         Calculator c = new Calculator();
