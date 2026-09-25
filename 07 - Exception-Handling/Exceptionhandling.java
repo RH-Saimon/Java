@@ -11,7 +11,7 @@ class AgeValidator{
     }
 }
 
-public class excep{
+public class exceptionhandling{
     static void main(String[]args){
         Scanner sc = new Scanner(System.in);
 
