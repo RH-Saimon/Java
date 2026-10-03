@@ -1,5 +1,11 @@
-package o8 - Loops;
-
 public class While_loop {
-    
+    static void main(String[]args){
+
+        int i = 0;
+
+        while( i <= 10){
+            System.out.println(i);
+            i++;
+        }
+    }
 }
